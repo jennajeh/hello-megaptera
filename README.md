@@ -1,2 +1,3 @@
-# hello-megaptera
-Hello, Megaptera!
+# Hello, megaptera!
+
+처음 만드는 Git 저장소.
